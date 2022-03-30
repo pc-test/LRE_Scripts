@@ -5,7 +5,7 @@ Action()
 	
 	lr_start_transaction("S1_T1_Google");
 
-	//web_reg_find("Text=search", LAST);
+	// web_reg_find("Text=search", LAST);
 
 	web_url("www.google.com", 
 		"URL=https://www.google.com/ncr", 
