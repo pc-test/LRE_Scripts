@@ -5,7 +5,7 @@ Action()
 	
 	lr_start_transaction("Homepage");
 	
-	web_reg_find("Text={searchTerm}", LAST);
+	// web_reg_find("Text={searchTerm}", LAST);
 
 	web_url("www.hpe.com", 
 		"URL=https://www.hpe.com/", 

@@ -5,7 +5,7 @@ Action()
 	
 	lr_start_transaction("S2_T1_Apple");
 
-	//web_reg_find("Text=iPhone", LAST);
+	// web_reg_find("Text=iPhone", LAST);
 
 	web_url("www.apple.com", 
 		"URL=https://www.apple.com/", 
