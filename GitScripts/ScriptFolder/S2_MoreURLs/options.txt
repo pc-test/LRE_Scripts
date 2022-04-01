@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\nilssoan\OneDrive - Micro Focus\# LR Enterprise - Documentation\# Onboarding and Technical Enablement Decks\PC Overview\Demo Scripts\S2_MoreURLs
+-IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
+-ec:\users\nilssoan\onedrive - micro focus\# lr enterprise - documentation\# onboarding and technical enablement decks\pc overview\demo scripts\s2_moreurls\\logfile.log
+c:\users\nilssoan\onedrive - micro focus\# lr enterprise - documentation\# onboarding and technical enablement decks\pc overview\demo scripts\s2_moreurls\\combined_S2_MoreURLs.c
+c:\users\nilssoan\onedrive - micro focus\# lr enterprise - documentation\# onboarding and technical enablement decks\pc overview\demo scripts\s2_moreurls\\pre_cci.c
