@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\nilssoan.CORPDOM\OneDrive - Micro Focus\# LR Enterprise - Documentation\# Onboarding and Technical Enablement Decks\PC Overview\Demo Scripts\SimpleWebScript
+-IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
+-ec:\users\nilssoan.corpdom\onedrive - micro focus\# lr enterprise - documentation\# onboarding and technical enablement decks\pc overview\demo scripts\simplewebscript\\logfile.log
+c:\users\nilssoan.corpdom\onedrive - micro focus\# lr enterprise - documentation\# onboarding and technical enablement decks\pc overview\demo scripts\simplewebscript\\combined_SimpleWebScript.c
+c:\users\nilssoan.corpdom\onedrive - micro focus\# lr enterprise - documentation\# onboarding and technical enablement decks\pc overview\demo scripts\simplewebscript\\pre_cci.c
